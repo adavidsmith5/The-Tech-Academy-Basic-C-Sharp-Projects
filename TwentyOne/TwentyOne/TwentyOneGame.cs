@@ -8,9 +8,15 @@ namespace TwentyOne
 {
     public class TwentyOneGame : Game
     {
-        public void Play()
+        //override is what says yes we will implement the necessary play method.
+        public override void Play()
         {
             throw new NotImplementedException();
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players: ");
+            base.ListPlayers();
         }
     }
 }
