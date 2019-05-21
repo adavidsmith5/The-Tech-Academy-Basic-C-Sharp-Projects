@@ -16,6 +16,10 @@ namespace AbstractClassApp
 
             employee1.SayName();
 
+            IQuittable employee2 = new Employee();
+
+            employee2.Quit();
+
             Console.ReadLine();
         }
     }
