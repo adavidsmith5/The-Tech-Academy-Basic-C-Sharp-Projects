@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstAndConstructorsApp", "ConstAndConstructorsApp\ConstAndConstructorsApp.csproj", "{1518F1F7-71D7-4783-9A71-5180881AF754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1518F1F7-71D7-4783-9A71-5180881AF754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1518F1F7-71D7-4783-9A71-5180881AF754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1518F1F7-71D7-4783-9A71-5180881AF754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1518F1F7-71D7-4783-9A71-5180881AF754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F1CFCA-06ED-4447-BD56-165623A2AA75}
+	EndGlobalSection
+EndGlobal
